@@ -31,3 +31,7 @@ Used DAX (Data Analysis Expressions) to perform calculations.
 Created measures for total quantity and total sales, learning how to define and use them effectively.
 Learned to create calculated columns, adding data dynamically to enhance insights.
 This project highlighted my ability to analyze data effectively and create visual solutions for monitoring business performance and identifying growth opportunities.
+
+## SCREENSHOTS OF Dashboard :-
+
+![Screenshot (825)](https://github.com/user-attachments/assets/945adebb-35ec-4dc3-9a99-de71bd8f922f)

@@ -27,7 +27,7 @@ Used maps to display sales and profit by state for geographic insights.
 
 **Skills Demonstrated :**
 Proficiency in Power BI for creating KPIs and building interactive dashboards.
-Used DAX (Data Analysis Expressions) to derive new insights and perform advanced calculations.
+Used DAX (Data Analysis Expressions) to perform calculations.
 Created measures for total quantity and total sales, learning how to define and use them effectively.
 Learned to create calculated columns, adding data dynamically to enhance insights.
 This project highlighted my ability to analyze data effectively and create visual solutions for monitoring business performance and identifying growth opportunities.

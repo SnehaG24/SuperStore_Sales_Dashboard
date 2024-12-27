@@ -33,5 +33,11 @@ Learned to create calculated columns, adding data dynamically to enhance insight
 This project highlighted my ability to analyze data effectively and create visual solutions for monitoring business performance and identifying growth opportunities.
 
 ## SCREENSHOTS OF Dashboard :-
-
+**Page 1) :** 
 ![Screenshot (825)](https://github.com/user-attachments/assets/945adebb-35ec-4dc3-9a99-de71bd8f922f)
+
+**Page 2) :** 
+![Screenshot (826)](https://github.com/user-attachments/assets/b6ad7911-a3c6-468b-a954-3438b44d1d97)
+
+**Page 3) :** 
+![Screenshot (827)](https://github.com/user-attachments/assets/9858f6d6-df1f-4828-b678-4e0bca1e9007)
